@@ -4,7 +4,7 @@
 using namespace std;
 int main(){
 
-    string str = "GeeksforGeeks";
+    string str = "My Capitan";
 
     //Use of reverse iterators
     string rev = string(str.rbegin(),str.rend());
